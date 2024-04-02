@@ -4091,8 +4091,7 @@ const grantees = [
     "Website": "www.yahouston.org",
     "Summary": "Young Audiences of Houston will provide free programs to the public in partnership with local organizations, cultural districts, social service agencies, parks, community centers, libraries, hospitals, businesses and other public venues open to the general public. These programs enable the community and visitors to Houston to participate in meaningful, high-quality arts experiences while promoting Houston as a national tourist destination with relevant, diverse arts and cultural experiences for all ages, backgrounds, and abilities. Over 50% of our annual 3,918 Arts & Culture Programs are open to the public and will take place from Jan. 1 - Dec. 31, 2024 across Houston."
     }
-];
-document.addEventListener('DOMContentLoaded', () => {
+];document.addEventListener('DOMContentLoaded', () => {
     const populateGrantees = () => {
         const programsContainer = document.querySelector('#grantPrograms');
 
