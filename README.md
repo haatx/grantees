@@ -1,5 +1,5 @@
 # HAA CY 2023 Grantees
-Grantees of competitive arts grants funded by City of Houston. Adminsitered by Houston Arts Alliance (HAA), overseen by MOCA.
+Grantees of competitive arts grants funded by City of Houston. Adminsitered by Houston Arts Alliance (HAA) and overseen by MOCA.
 
 ## Acknowledgements
  - [Houston Arts Alliance](https://www.houstonartsalliance.com)
