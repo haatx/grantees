@@ -2,6 +2,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Contemporary Arts Museum Houston",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$10,000.00",
@@ -13,6 +14,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "DACAMERA",
     "Discipline": "Music",
     "AwardAmount": "$10,000.00",
@@ -24,6 +26,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Dance Afrikana",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$10,000.00",
@@ -35,6 +38,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Group Acorde",
     "Discipline": "Performing Arts",
     "AwardAmount": "$10,000.00",
@@ -46,6 +50,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Lance Flowers",
     "Discipline": "Art + Social Practice",
     "AwardAmount": "$10,000.00",
@@ -57,6 +62,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Norma Jo Thomas",
     "Discipline": "Theater",
     "AwardAmount": "$10,000.00",
@@ -68,6 +74,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "One Sample Cultural Foundation",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$10,000.00",
@@ -79,6 +86,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "SoulSista Art Foundation",
     "Discipline": "Music",
     "AwardAmount": "$10,000.00",
@@ -90,6 +98,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "The Pilot Dance Project",
     "Discipline": "Dance",
     "AwardAmount": "$10,000.00",
@@ -101,6 +110,7 @@
   {
     "Program": "City's Initiative",
     "Cycle": "CI 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "University of Houston Foundation",
     "Discipline": "Music",
     "AwardAmount": "$10,000.00",
@@ -110,8 +120,33 @@
     "Summary": "The Terence Blanchard concert will engage the community from Third Ward and Downtown Houston in a series of events with 7 time Grammy winning artist Terence Blanchard. \nIn addition to performing a concert, Blanchard will collaborate with University of Houston and University of Houston-Downtown students.\nThe performance will be November 7th, 8th, or 10th at either the Wortham Theater or at UH Moores School of Music. \nThere will also be a fireside chat / workshop as part of the visit."
   },
   {
+    "Program": "City's Initiative",
+    "Cycle": "CI 2024 - Round 2",
+    "Round": "Round 2",
+    "Name": "TBA",
+    "Discipline": "",
+    "AwardAmount": "",
+    "FacebookURL": "",
+    "InstagramURL": "",
+    "WebsiteURL": "",
+    "Summary": "Check back later for Round 2 grantees!"
+  },
+  {
+    "Program": "City's Initiative",
+    "Cycle": "CI 2024 - Round 3",
+    "Round": "Round 3",
+    "Name": "TBA",
+    "Discipline": "",
+    "AwardAmount": "",
+    "FacebookURL": "",
+    "InstagramURL": "",
+    "WebsiteURL": "",
+    "Summary": "Check back later for Round 3 grantees!"
+  },
+  {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "aisha tida",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,000.00",
@@ -123,6 +158,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Anastasia Kirages",
     "Discipline": "Visual Arts",
     "AwardAmount": "$2,500.00",
@@ -134,6 +170,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Anne Park",
     "Discipline": "Visual Arts",
     "AwardAmount": "$2,500.00",
@@ -145,6 +182,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Asia Society Texas",
     "Discipline": "Performing Arts",
     "AwardAmount": "$2,500.00",
@@ -156,6 +194,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Ayanna Allen",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -167,6 +206,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Babatunde",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -178,6 +218,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Beguiled Theatre Company",
     "Discipline": "Theater",
     "AwardAmount": "$2,500.00",
@@ -189,6 +230,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Bharathi Kalai Manram",
     "Discipline": "Art + Social Practice",
     "AwardAmount": "$2,500.00",
@@ -200,6 +242,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Carl Calloway Jr.",
     "Discipline": "Film",
     "AwardAmount": "$2,500.00",
@@ -211,6 +254,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Dance Afrikana",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -222,6 +266,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Diamond Ashman",
     "Discipline": "Public Art",
     "AwardAmount": "$2,500.00",
@@ -233,6 +278,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "EMBER SKEYEZ",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -244,6 +290,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "George Heathco",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -255,6 +302,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Group Acorde",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -266,6 +314,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "HOPERA",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -277,6 +326,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Houston Brass Band",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -288,6 +338,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Isabella Vik",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -299,6 +350,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Jesus Cantu Medel",
     "Discipline": "Multimedia",
     "AwardAmount": "$2,500.00",
@@ -310,6 +362,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "John P. McGovern Museum of Health & Medical Science",
     "Discipline": "Visual Arts",
     "AwardAmount": "$2,500.00",
@@ -321,6 +374,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Levante Piano Duo",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -332,6 +386,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Lovett Theater",
     "Discipline": "Theater",
     "AwardAmount": "$2,500.00",
@@ -343,6 +398,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Magnolia City Brass Band",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -354,6 +410,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "MUSIQA",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -365,6 +422,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Norma Jo Thomas",
     "Discipline": "Film",
     "AwardAmount": "$2,500.00",
@@ -376,6 +434,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "PPL PXRTY ENTERTAINMENT",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -387,6 +446,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Raul Orlando Edwards",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -398,6 +458,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Samskriti",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -409,6 +470,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Sarah Sudhoff",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -420,6 +482,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Scriptwriters Houston",
     "Discipline": "Performing Arts",
     "AwardAmount": "$2,500.00",
@@ -431,6 +494,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Silambam Houston",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -442,6 +506,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "SKEYEZ N STARZ",
     "Discipline": "Multidisciplinary",
     "AwardAmount": "$2,500.00",
@@ -453,6 +518,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Space City Medievalism",
     "Discipline": "Literary",
     "AwardAmount": "$2,500.00",
@@ -464,6 +530,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "The Alta Arts",
     "Discipline": "Performing Arts",
     "AwardAmount": "$2,500.00",
@@ -475,6 +542,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "The Biggest Brandon",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -486,6 +554,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "The Pilot Dance Project",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -497,6 +566,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "The Positive Project Playahz InSpirational Theatre Arts Company",
     "Discipline": "Performing Arts",
     "AwardAmount": "$2,500.00",
@@ -508,6 +578,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Thomas Helton",
     "Discipline": "Music",
     "AwardAmount": "$2,500.00",
@@ -519,6 +590,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "Uptown Dance Company",
     "Discipline": "Dance",
     "AwardAmount": "$2,500.00",
@@ -530,6 +602,7 @@
   {
     "Program": "Let Creativity Happen",
     "Cycle": "LCH 2024 - Round 1",
+    "Round": "Round 1",
     "Name": "YUNGCHRIS",
     "Discipline": "Film",
     "AwardAmount": "$2,500.00",
@@ -537,5 +610,29 @@
     "InstagramURL": "https://www.instagram.com/yungchrishk/",
     "WebsiteURL": "",
     "Summary": "Hi, my name is YUNGCHRIS. As a multidisciplinary artist, I create unique works of art in various sizes and produce dance productions and events all over the city. Currently, I am in the process of producing an independent film called TipToe Thomas, which I am both starring in and directing. The film is set to premiere this year and is centered around a character I created named TipToe Thomas. Through the art of mime, TipToe Thomas expresses himself through dance, inspired by the legendary Marcel Marceau. The premiere is set for November 16th, 2024."
+  },
+  {
+    "Program": "Let Creativity Happen",
+    "Cycle": "LCH 2024 - Round 2",
+    "Round": "Round 2",
+    "Name": "TBA",
+    "Discipline": "",
+    "AwardAmount": "",
+    "FacebookURL": "",
+    "InstagramURL": "",
+    "WebsiteURL": "",
+    "Summary": "Check back later for Round 2 grantees!"
+  },
+  {
+    "Program": "Let Creativity Happen",
+    "Cycle": "LCH 2024 - Round 3",
+    "Round": "Round 3",
+    "Name": "TBA",
+    "Discipline": "",
+    "AwardAmount": "",
+    "FacebookURL": "",
+    "InstagramURL": "",
+    "WebsiteURL": "",
+    "Summary": "Check back later for Round 3 grantees!"
   }
 ]
